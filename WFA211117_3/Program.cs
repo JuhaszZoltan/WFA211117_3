@@ -16,7 +16,7 @@ namespace WFA211117_3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmMain());
+            Application.Run(new FrmSettings());
         }
     }
 }
